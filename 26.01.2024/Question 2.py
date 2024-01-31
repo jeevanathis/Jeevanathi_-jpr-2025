@@ -1,3 +1,4 @@
+'''
 Animesh has  empty candy jars, numbered from  to , with infinite capacity. He performs  operations. Each operation is described by  integers, , , and . Here,  and  are indices of the jars, and  is the number of candies to be added inside each jar whose index lies between  and  (both inclusive). Can you tell the average number of candies after  operations?
 
 Example
@@ -21,6 +22,7 @@ Input Format
 
 The first line contains two integers,  and , separated by a single space.
  lines foll
+ '''
 #!/bin/python3
 
 import math
